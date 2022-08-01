@@ -1,0 +1,2 @@
+JMH S 56 com.example.hotelcuzcoweb.Business.Services.StringConcat S 85 com.example.hotelcuzcoweb.Business.Services.jmh_generated.StringConcat_concat_jmhTest S 6 concat S 11 AverageTime E A 1 1 1 E I 4 1000 T 3 2 s E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 50 com.example.hotelcuzcoweb.HotelCuzcoWebApplication S 79 com.example.hotelcuzcoweb.jmh_generated.HotelCuzcoWebApplication_concat_jmhTest S 6 concat S 11 AverageTime E A 1 1 1 E I 4 1000 T 3 2 s E E E E E E E E E E E U 12 MILLISECONDS E E 
